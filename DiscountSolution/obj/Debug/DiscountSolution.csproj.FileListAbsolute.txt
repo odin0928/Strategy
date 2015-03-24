@@ -1,7 +1,0 @@
-D:\C#\StrategyPattern\DiscountSolution\bin\Debug\DiscountSolution.dll
-D:\C#\StrategyPattern\DiscountSolution\bin\Debug\DiscountSolution.pdb
-D:\C#\StrategyPattern\DiscountSolution\bin\Debug\Custom.dll
-D:\C#\StrategyPattern\DiscountSolution\bin\Debug\Custom.pdb
-D:\C#\StrategyPattern\DiscountSolution\obj\Debug\DiscountSolution.csprojResolveAssemblyReference.cache
-D:\C#\StrategyPattern\DiscountSolution\obj\Debug\DiscountSolution.dll
-D:\C#\StrategyPattern\DiscountSolution\obj\Debug\DiscountSolution.pdb

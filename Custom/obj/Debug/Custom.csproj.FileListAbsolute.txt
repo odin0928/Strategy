@@ -1,4 +1,0 @@
-D:\C#\StrategyPattern\Custom\bin\Debug\Custom.dll
-D:\C#\StrategyPattern\Custom\bin\Debug\Custom.pdb
-D:\C#\StrategyPattern\Custom\obj\Debug\Custom.dll
-D:\C#\StrategyPattern\Custom\obj\Debug\Custom.pdb
